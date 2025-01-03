@@ -1,1 +1,2 @@
+**IT320 Project**
 DishDive is a user-friendly application designed for cooking enthusiasts who wish to share and explore recipes while connecting with a community that loves food. The application embraces the cultural significance of food, recognizing how recipes evolve across generations and geographical boundaries, blending traditions and innovations. By providing a platform focused solely on sharing recipes, DishDive aims to make the process of discovering, sharing, and personalizing recipes more accessible and enjoyable.
